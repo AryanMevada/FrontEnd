@@ -1,6 +1,6 @@
 # JAVA Fullstack FrontEnd
-# Greater Vision Project
 
+## Greater Vision Project
 ## Overview
 The Greater Vision project is designed to provide career opportunities in Web Development and Data Science through various courses. This project includes a user-friendly interface for booking demo classes and accessing course information.
 
@@ -34,7 +34,7 @@ MultipleFiles/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/AryanMevada/FrontEnd-Fullstack_Java.git>
 
 ## SnapShot of project
 ![Image Alt](https://github.com/AryanMevada/FrontEnd-Fullstack_Java/blob/c318c1a3fac5055d2adec76ad0e359472423d08d/FrontEnd_Snapshot.png?raw=true)
